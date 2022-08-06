@@ -198,7 +198,7 @@ public class HorizontalStepView extends LinearLayout implements HorizontalStepsV
 
                     if(i <= mComplectingPosition)
                     {
-                        mTextView.setTypeface(null, Typeface.BOLD);
+//                         mTextView.setTypeface(null, Typeface.BOLD);
                         mTextView.setTextColor(mComplectedTextColor);
                     } else
                     {
