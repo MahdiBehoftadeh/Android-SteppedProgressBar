@@ -17,11 +17,6 @@ import com.baoyachi.stepview.bean.StepBean;
 
 import java.util.List;
 
-/**
- * 日期：16/6/22 15:47
- * <p/>
- * 描述：StepView
- */
 public class HorizontalStepView extends LinearLayout implements HorizontalStepsViewIndicator.OnDrawIndicatorListener
 {
     private RelativeLayout mTextContainer;
